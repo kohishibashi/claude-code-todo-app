@@ -81,3 +81,7 @@ Core todo functionality:
 - Do not skip TypeScript types
 - Do not deploy without running tests
 - Do not modify database schema without migrations
+
+## Development Workflow
+
+- Run typecheck and lint after completing tasks and be sure they ALWAYS pass
